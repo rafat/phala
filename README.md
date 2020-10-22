@@ -20,5 +20,8 @@ Secret Token
 
 <img src="img/wallet_phala.png" />
 
+Tweet
+
+https://twitter.com/rhsn06617936/status/1319234589345234947
 
 
